@@ -146,13 +146,6 @@ By completing this skills assessment, you will:
 - **Jupyter** - Interactive notebook environment
 - **Otter-Grader** - Automated grading framework
 
-## 📞 Support & Questions
-
-For questions or issues regarding:
-- **Workshop Registration:** Check the Google Form deadline (12th June 2026)
-- **Technical Issues:** Ensure all dependencies are installed correctly
-- **Quiz Help:** Review the hint cells and documentation within each question
-
 ## 📄 License
 
 This educational material is provided by the Centre for Data Science and Artificial Intelligence (DSAIL) at DeKUT.
